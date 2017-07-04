@@ -1,6 +1,12 @@
 # que-flow
 Advance promise chain including naming, injecting between
 
+### Install
+```bash
+npm install que-flow
+```
+
+
 ### Examples
 
 When you generally use the `q` library from node.
