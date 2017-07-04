@@ -1,6 +1,8 @@
 # que-flow
 Advance promise chain including naming, injecting between
 
+### Warning: this project is highly unstable and under development
+
 ### Install
 ```bash
 npm install que-flow
