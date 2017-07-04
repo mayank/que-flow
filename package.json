@@ -1,0 +1,24 @@
+{
+  "name": "que-flow",
+  "version": "1.0.0",
+  "description": "Advance Promise Chain Flows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayank/que-flow.git"
+  },
+  "keywords": [
+    "promise",
+    "que",
+    "nodejs"
+  ],
+  "author": "mayank <nitb.scholar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayank/que-flow/issues"
+  },
+  "homepage": "https://github.com/mayank/que-flow#readme"
+}
