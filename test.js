@@ -17,7 +17,6 @@ chain.prepend('apiCall', 'decimalCheck', function(){
 });
 
 
-/*
 chain.prepend('apiCall', 'prevalidateAmount', function(){
     console.log('prevalidateAmount');
     return flow.resolve();
@@ -32,7 +31,6 @@ chain.append('apiCall', 'api2api', function(){
     console.log('api2api');
     return flow.resolve();
 });
-*/
 
 chain.start();
 
