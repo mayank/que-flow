@@ -1,4 +1,6 @@
 # que-flow
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmayank%2Fque-flow.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmayank%2Fque-flow?ref=badge_shield)
+
 Advance promise chain including naming, injecting between
 
 ### Warning: this project is highly unstable and under development
@@ -54,3 +56,7 @@ chain.start();
  *
 */
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmayank%2Fque-flow.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmayank%2Fque-flow?ref=badge_large)
